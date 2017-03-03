@@ -1,0 +1,3816 @@
+Reading clause 0: 20, -92, -67, done.
+Reading clause 1: -31, -52, 19, done.
+Reading clause 2: 27, -95, 62, done.
+Reading clause 3: -26, -69, -51, done.
+Reading clause 4: -46, 20, 73, done.
+Reading clause 5: -59, -74, 52, done.
+Reading clause 6: -43, -39, -62, done.
+Reading clause 7: -14, 6, -63, done.
+Reading clause 8: -44, 42, -63, done.
+Reading clause 9: 97, 51, 39, done.
+Reading clause 10: -51, 15, -48, done.
+Reading clause 11: -65, 49, 85, done.
+Reading clause 12: -61, -97, -7, done.
+Reading clause 13: -34, -48, 64, done.
+Reading clause 14: -68, 20, -76, done.
+Reading clause 15: 42, -55, 50, done.
+Reading clause 16: 22, -93, -17, done.
+Reading clause 17: -79, -75, -43, done.
+Reading clause 18: -36, -31, -53, done.
+Reading clause 19: 95, 54, 38, done.
+Reading clause 20: -72, 55, 35, done.
+Reading clause 21: -29, 18, 26, done.
+Reading clause 22: 97, -11, -81, done.
+Reading clause 23: 51, -30, -100, done.
+Reading clause 24: -76, 2, 8, done.
+Reading clause 25: -58, 19, -6, done.
+Reading clause 26: 16, 10, 54, done.
+Reading clause 27: 67, -40, 20, done.
+Reading clause 28: -30, -37, 52, done.
+Reading clause 29: 43, 29, 57, done.
+Reading clause 30: 84, 15, 26, done.
+Reading clause 31: 56, -53, 76, done.
+Reading clause 32: 100, 56, -19, done.
+Reading clause 33: 60, -46, -9, done.
+Reading clause 34: -31, -25, -95, done.
+Reading clause 35: -96, 95, 81, done.
+Reading clause 36: 30, -63, 100, done.
+Reading clause 37: -88, 80, -39, done.
+Reading clause 38: -19, -48, -95, done.
+Reading clause 39: 62, -7, 85, done.
+Reading clause 40: -68, -80, -90, done.
+Reading clause 41: 84, 96, -1, done.
+Reading clause 42: -84, -95, 32, done.
+Reading clause 43: -62, 32, 15, done.
+Reading clause 44: -65, -51, 63, done.
+Reading clause 45: 72, -16, 94, done.
+Reading clause 46: -11, 24, 23, done.
+Reading clause 47: 1, -13, 69, done.
+Reading clause 48: 29, -95, 39, done.
+Reading clause 49: 86, 85, 74, done.
+Reading clause 50: 73, -79, -97, done.
+Reading clause 51: 93, 48, -13, done.
+Reading clause 52: 41, -76, 9, done.
+Reading clause 53: 97, -75, -13, done.
+Reading clause 54: 82, 85, 89, done.
+Reading clause 55: 91, -10, -30, done.
+Reading clause 56: 71, -29, -50, done.
+Reading clause 57: -27, -75, 71, done.
+Reading clause 58: 77, -94, 3, done.
+Reading clause 59: -67, -22, 3, done.
+Reading clause 60: -83, -45, -72, done.
+Reading clause 61: 74, 11, -29, done.
+Reading clause 62: -1, -22, -35, done.
+Reading clause 63: 95, -99, 79, done.
+Reading clause 64: 95, 87, -97, done.
+Reading clause 65: -27, -83, -71, done.
+Reading clause 66: 45, -97, 46, done.
+Reading clause 67: 15, 81, 23, done.
+Reading clause 68: 29, 26, 6, done.
+Reading clause 69: -30, 50, 16, done.
+Reading clause 70: 6, -25, -12, done.
+Reading clause 71: -43, 40, -11, done.
+Reading clause 72: 64, 32, -62, done.
+Reading clause 73: -59, -72, -18, done.
+Reading clause 74: 89, 77, -64, done.
+Reading clause 75: -85, 34, 58, done.
+Reading clause 76: -5, 2, 39, done.
+Reading clause 77: 29, -38, -47, done.
+Reading clause 78: 15, -90, 91, done.
+Reading clause 79: -64, 55, 18, done.
+Reading clause 80: 33, -87, 12, done.
+Reading clause 81: 12, 44, -60, done.
+Reading clause 82: -25, -85, 49, done.
+Reading clause 83: -61, 38, 50, done.
+Reading clause 84: 57, 8, 55, done.
+Reading clause 85: -29, 28, 54, done.
+Reading clause 86: -59, 54, 77, done.
+Reading clause 87: 85, -1, 63, done.
+Reading clause 88: 1, 12, -72, done.
+Reading clause 89: 66, -76, 39, done.
+Reading clause 90: -98, 16, -83, done.
+Reading clause 91: 64, 34, 43, done.
+Reading clause 92: 30, 12, -96, done.
+Reading clause 93: -79, -97, -35, done.
+Reading clause 94: -52, 98, 73, done.
+Reading clause 95: -57, -4, -96, done.
+Reading clause 96: -42, -26, -76, done.
+Reading clause 97: 86, -96, -35, done.
+Reading clause 98: 72, -88, 4, done.
+Reading clause 99: -38, 23, -83, done.
+Reading clause 100: 70, -65, -11, done.
+Reading clause 101: -59, -19, -27, done.
+Reading clause 102: 53, 98, 9, done.
+Reading clause 103: -40, 46, 48, done.
+Reading clause 104: -50, -5, -19, done.
+Reading clause 105: -67, 26, 62, done.
+Reading clause 106: 91, 88, 4, done.
+Reading clause 107: -3, 26, 5, done.
+Reading clause 108: 33, -13, -72, done.
+Reading clause 109: 28, 44, -94, done.
+Reading clause 110: -20, 51, 91, done.
+Reading clause 111: -81, -32, 91, done.
+Reading clause 112: -83, 91, -94, done.
+Reading clause 113: 41, -39, 5, done.
+Reading clause 114: 13, -32, 65, done.
+Reading clause 115: -20, -84, -29, done.
+Reading clause 116: 83, 57, 79, done.
+Reading clause 117: -49, 41, 69, done.
+Reading clause 118: 35, -59, -63, done.
+Reading clause 119: -84, 96, -33, done.
+Reading clause 120: -40, 44, -22, done.
+Reading clause 121: 98, -83, -18, done.
+Reading clause 122: -2, 22, -6, done.
+Reading clause 123: 75, 100, -14, done.
+Reading clause 124: -97, -37, -12, done.
+Reading clause 125: -51, -21, 74, done.
+Reading clause 126: -67, 46, -26, done.
+Reading clause 127: 11, 29, 68, done.
+Reading clause 128: 22, 75, -88, done.
+Reading clause 129: -72, -20, -97, done.
+Reading clause 130: 14, 10, -22, done.
+Reading clause 131: -75, 98, -19, done.
+Reading clause 132: 35, -90, 14, done.
+Reading clause 133: -88, 98, -30, done.
+Reading clause 134: 92, 71, -64, done.
+Reading clause 135: -100, 15, 85, done.
+Reading clause 136: -61, -29, 83, done.
+Reading clause 137: 18, 93, 83, done.
+Reading clause 138: -31, 61, -80, done.
+Reading clause 139: -14, -92, -83, done.
+Reading clause 140: -52, -32, 92, done.
+Reading clause 141: -2, 75, -10, done.
+Reading clause 142: 77, -74, -34, done.
+Reading clause 143: -75, 28, 92, done.
+Reading clause 144: 25, 79, -90, done.
+Reading clause 145: 72, 44, 7, done.
+Reading clause 146: 19, -87, -38, done.
+Reading clause 147: 51, 23, -84, done.
+Reading clause 148: -82, 19, 92, done.
+Reading clause 149: 15, 94, -4, done.
+Reading clause 150: 5, 98, 52, done.
+Reading clause 151: -26, 20, 97, done.
+Reading clause 152: 70, -38, -94, done.
+Reading clause 153: -76, -13, 44, done.
+Reading clause 154: -99, -37, 94, done.
+Reading clause 155: -46, 85, 5, done.
+Reading clause 156: 75, -96, -49, done.
+Reading clause 157: 10, 4, -13, done.
+Reading clause 158: -41, -49, -71, done.
+Reading clause 159: -75, 52, 60, done.
+Reading clause 160: 51, 42, 48, done.
+Reading clause 161: 72, -77, 16, done.
+Reading clause 162: 61, -44, -73, done.
+Reading clause 163: 61, 43, 66, done.
+Reading clause 164: 1, -82, 51, done.
+Reading clause 165: 97, 46, -37, done.
+Reading clause 166: 85, -15, 77, done.
+Reading clause 167: 86, 56, 1, done.
+Reading clause 168: -85, 41, 70, done.
+Reading clause 169: -40, 47, -22, done.
+Reading clause 170: 62, 99, 57, done.
+Reading clause 171: 100, 45, 3, done.
+Reading clause 172: -44, -58, -17, done.
+Reading clause 173: 27, -19, -28, done.
+Reading clause 174: -75, 59, -88, done.
+Reading clause 175: 19, 99, -56, done.
+Reading clause 176: -54, -97, -69, done.
+Reading clause 177: 19, -87, 11, done.
+Reading clause 178: 35, -4, 6, done.
+Reading clause 179: -42, 99, -1, done.
+Reading clause 180: 81, -34, -37, done.
+Reading clause 181: -34, 44, 88, done.
+Reading clause 182: 29, 24, 84, done.
+Reading clause 183: 18, 72, -77, done.
+Reading clause 184: -14, 52, 58, done.
+Reading clause 185: -95, -71, -14, done.
+Reading clause 186: 7, 4, 92, done.
+Reading clause 187: -65, -39, -82, done.
+Reading clause 188: -98, 44, 72, done.
+Reading clause 189: -73, 77, 100, done.
+Reading clause 190: -60, 11, 67, done.
+Reading clause 191: -90, -29, 10, done.
+Reading clause 192: -8, 18, -54, done.
+Reading clause 193: -19, -100, -70, done.
+Reading clause 194: 83, -57, -66, done.
+Reading clause 195: 93, 50, 55, done.
+Reading clause 196: 28, -89, -38, done.
+Reading clause 197: 76, -72, 92, done.
+Reading clause 198: 93, -77, 72, done.
+Reading clause 199: -64, 89, -13, done.
+Reading clause 200: 77, 79, 9, done.
+Reading clause 201: 43, 78, 93, done.
+Reading clause 202: -29, 61, -62, done.
+Reading clause 203: -26, 62, 47, done.
+Reading clause 204: 49, 87, -31, done.
+Reading clause 205: 90, -5, 34, done.
+Reading clause 206: -1, -51, 7, done.
+Reading clause 207: 93, -12, -35, done.
+Reading clause 208: -5, -28, -62, done.
+Reading clause 209: 99, -84, 47, done.
+Reading clause 210: 85, -21, -4, done.
+Reading clause 211: 4, -30, 82, done.
+Reading clause 212: -97, 70, 28, done.
+Reading clause 213: 81, 65, 98, done.
+Reading clause 214: -81, -37, -82, done.
+Reading clause 215: -79, -19, 57, done.
+Reading clause 216: -53, -26, 14, done.
+Reading clause 217: 18, -82, -9, done.
+Reading clause 218: 99, 56, -39, done.
+Reading clause 219: 87, -18, 1, done.
+Reading clause 220: 84, 28, -41, done.
+Reading clause 221: -1, 63, -73, done.
+Reading clause 222: -25, 67, -63, done.
+Reading clause 223: 41, 14, -43, done.
+Reading clause 224: -33, -14, 95, done.
+Reading clause 225: -13, 33, -20, done.
+Reading clause 226: 21, -38, 34, done.
+Reading clause 227: -63, 65, 1, done.
+Reading clause 228: 88, 31, -74, done.
+Reading clause 229: -20, 11, 46, done.
+Reading clause 230: 17, -57, 44, done.
+Reading clause 231: -78, -67, -97, done.
+Reading clause 232: -24, -42, -55, done.
+Reading clause 233: -41, 99, -83, done.
+Reading clause 234: 40, 23, -6, done.
+Reading clause 235: 74, 93, 78, done.
+Reading clause 236: -59, 100, -16, done.
+Reading clause 237: 3, 50, 92, done.
+Reading clause 238: 12, 99, -75, done.
+Reading clause 239: 82, 83, -64, done.
+Reading clause 240: 72, -10, -67, done.
+Reading clause 241: 1, -43, -51, done.
+Reading clause 242: -96, 97, 88, done.
+Reading clause 243: 7, 48, 95, done.
+Reading clause 244: 98, 11, -72, done.
+Reading clause 245: 73, 9, -75, done.
+Reading clause 246: -38, -50, 33, done.
+Reading clause 247: -92, -97, 27, done.
+Reading clause 248: -100, -20, 2, done.
+Reading clause 249: 3, -18, -12, done.
+Reading clause 250: 82, -28, -15, done.
+Reading clause 251: -56, 3, 47, done.
+Reading clause 252: 7, 13, 17, done.
+Reading clause 253: 7, 13, 10, done.
+Reading clause 254: 43, -26, 86, done.
+Reading clause 255: -50, -57, -24, done.
+Reading clause 256: -42, 23, -85, done.
+Reading clause 257: -80, -8, 94, done.
+Reading clause 258: -31, 40, 25, done.
+Reading clause 259: -57, -61, 27, done.
+Reading clause 260: -20, -14, 53, done.
+Reading clause 261: -47, -17, 38, done.
+Reading clause 262: 39, 91, -9, done.
+Reading clause 263: 70, 84, 82, done.
+Reading clause 264: 57, 76, 21, done.
+Reading clause 265: 63, -78, 16, done.
+Reading clause 266: -14, 24, -31, done.
+Reading clause 267: -31, 78, -15, done.
+Reading clause 268: -6, -25, 93, done.
+Reading clause 269: 98, -45, -67, done.
+Reading clause 270: 76, -5, 6, done.
+Reading clause 271: 83, 82, 49, done.
+Reading clause 272: -68, 83, -100, done.
+Reading clause 273: 31, -81, -94, done.
+Reading clause 274: -61, 22, -65, done.
+Reading clause 275: 70, -18, 93, done.
+Reading clause 276: -95, -41, -81, done.
+Reading clause 277: 90, -68, -93, done.
+Reading clause 278: 69, 71, -78, done.
+Reading clause 279: 23, 56, 43, done.
+Reading clause 280: 33, 60, -87, done.
+Reading clause 281: -72, 27, 58, done.
+Reading clause 282: 2, -55, 19, done.
+Reading clause 283: -36, 70, -48, done.
+Reading clause 284: -59, 27, 28, done.
+Reading clause 285: 35, -6, -27, done.
+Reading clause 286: 56, -83, -66, done.
+Reading clause 287: 70, 45, -31, done.
+Reading clause 288: 74, -62, 53, done.
+Reading clause 289: 51, -94, 14, done.
+Reading clause 290: 23, 62, -31, done.
+Reading clause 291: -85, -97, -55, done.
+Reading clause 292: 57, 75, 63, done.
+Reading clause 293: 93, -23, -17, done.
+Reading clause 294: -64, -87, -45, done.
+Reading clause 295: -79, 47, -95, done.
+Reading clause 296: -29, 64, 47, done.
+Reading clause 297: 88, -43, 4, done.
+Reading clause 298: -67, -43, -51, done.
+Reading clause 299: 65, -27, -72, done.
+Reading clause 300: -50, -38, 90, done.
+Reading clause 301: 75, 12, -44, done.
+Reading clause 302: 57, -60, -92, done.
+Reading clause 303: -5, 60, 48, done.
+Reading clause 304: 6, 26, -63, done.
+Reading clause 305: 2, 47, 9, done.
+Reading clause 306: -71, -56, -21, done.
+Reading clause 307: -39, -29, 76, done.
+Reading clause 308: -63, 80, 27, done.
+Reading clause 309: 33, -39, 64, done.
+Reading clause 310: -55, 14, 4, done.
+Reading clause 311: -38, -5, 56, done.
+Reading clause 312: -92, 2, -94, done.
+Reading clause 313: -40, 58, -78, done.
+Reading clause 314: 46, -16, -68, done.
+Reading clause 315: 86, -45, 24, done.
+Reading clause 316: -20, 22, -54, done.
+Reading clause 317: 49, -73, -65, done.
+Reading clause 318: 28, -22, -23, done.
+Reading clause 319: -69, -9, -54, done.
+Reading clause 320: 64, 99, 37, done.
+Reading clause 321: -56, -83, 81, done.
+Reading clause 322: 56, 81, -45, done.
+Reading clause 323: 8, -15, 72, done.
+Reading clause 324: 62, 22, -94, done.
+Reading clause 325: 11, 97, 69, done.
+Reading clause 326: 75, -1, 7, done.
+Reading clause 327: 7, 17, 62, done.
+Reading clause 328: 24, 42, -83, done.
+Reading clause 329: 79, 76, -17, done.
+Reading clause 330: 35, -71, -17, done.
+Reading clause 331: 28, -89, 49, done.
+Reading clause 332: -86, 42, 1, done.
+Reading clause 333: 47, -14, -41, done.
+Reading clause 334: 42, 20, 43, done.
+Reading clause 335: -91, -84, 31, done.
+Reading clause 336: -49, 43, -37, done.
+Reading clause 337: 61, 76, -42, done.
+Reading clause 338: -6, 100, 76, done.
+Reading clause 339: 16, 59, 34, done.
+Reading clause 340: 71, -79, 85, done.
+Reading clause 341: 56, -67, 70, done.
+Reading clause 342: 89, -25, -33, done.
+Reading clause 343: 40, 54, 57, done.
+Reading clause 344: -78, 46, -6, done.
+Reading clause 345: -37, 3, -31, done.
+Reading clause 346: -25, -20, -84, done.
+Reading clause 347: -94, 20, -37, done.
+Reading clause 348: -85, 89, 14, done.
+Reading clause 349: -67, 16, 28, done.
+Reading clause 350: -91, -98, 81, done.
+Reading clause 351: 80, -15, -96, done.
+Reading clause 352: -89, 70, 9, done.
+Reading clause 353: -59, 82, -31, done.
+Reading clause 354: -92, 88, 9, done.
+Reading clause 355: -30, 80, -92, done.
+Reading clause 356: -56, -65, -72, done.
+Reading clause 357: -68, 51, 59, done.
+Reading clause 358: -27, -26, 81, done.
+Reading clause 359: -66, -9, 87, done.
+Reading clause 360: -3, 5, -77, done.
+Reading clause 361: 86, -29, -20, done.
+Reading clause 362: -24, -40, -47, done.
+Reading clause 363: -5, 49, 46, done.
+Reading clause 364: 51, -8, -85, done.
+Reading clause 365: -84, -79, -17, done.
+Reading clause 366: 52, -4, 58, done.
+Reading clause 367: -70, 2, 42, done.
+Reading clause 368: 8, -20, -76, done.
+Reading clause 369: 86, -77, -61, done.
+Reading clause 370: 70, -64, 65, done.
+Reading clause 371: -9, -22, 25, done.
+Reading clause 372: 60, -45, -48, done.
+Reading clause 373: -76, 12, -68, done.
+Reading clause 374: -17, 53, 80, done.
+Reading clause 375: 95, -62, 6, done.
+Reading clause 376: 77, -93, 3, done.
+Reading clause 377: -43, -24, -31, done.
+Reading clause 378: 80, -64, 38, done.
+Reading clause 379: -68, 25, 63, done.
+Reading clause 380: -34, -53, -16, done.
+Reading clause 381: -21, 72, -91, done.
+Reading clause 382: 31, -36, -21, done.
+Reading clause 383: -24, -71, 91, done.
+Reading clause 384: -18, 63, 78, done.
+Reading clause 385: 48, -83, -6, done.
+Reading clause 386: 58, 91, -40, done.
+Reading clause 387: -2, 15, 24, done.
+Reading clause 388: 3, -35, -26, done.
+Reading clause 389: -53, -44, -60, done.
+Reading clause 390: -43, 51, 77, done.
+Reading clause 391: 100, 39, 43, done.
+Reading clause 392: 30, -34, -37, done.
+Reading clause 393: -69, 4, 19, done.
+Reading clause 394: -23, -11, -67, done.
+Reading clause 395: 35, -41, 51, done.
+Reading clause 396: -33, -20, -79, done.
+Reading clause 397: 91, 74, 75, done.
+Reading clause 398: 93, -95, 86, done.
+Reading clause 399: 25, 84, 74, done.
+Reading clause 400: 5, 59, 93, done.
+Reading clause 401: 62, -60, 97, done.
+Reading clause 402: -43, 47, 10, done.
+Reading clause 403: 27, 65, 99, done.
+Reading clause 404: 34, 58, 57, done.
+Reading clause 405: -67, 40, 7, done.
+Reading clause 406: -35, -58, -50, done.
+Reading clause 407: -33, -40, 8, done.
+Reading clause 408: 100, -52, -55, done.
+Reading clause 409: -15, -73, 5, done.
+Reading clause 410: -4, 91, -97, done.
+Reading clause 411: 76, 67, 26, done.
+Reading clause 412: -86, 8, 37, done.
+Reading clause 413: 76, 49, 2, done.
+Reading clause 414: 78, 91, -87, done.
+Reading clause 415: -79, -66, -34, done.
+Reading clause 416: 68, 93, 41, done.
+Reading clause 417: 50, -77, 53, done.
+Reading clause 418: 73, 50, -55, done.
+Reading clause 419: 24, 67, -81, done.
+Reading clause 420: -10, -44, -30, done.
+Reading clause 421: -37, 85, 31, done.
+Reading clause 422: -47, 53, 38, done.
+Reading clause 423: 36, -32, -31, done.
+Reading clause 424: -37, 18, -69, done.
+Propagating literal 1
+There's 7 clauses with 1 negated:
+    Checking the clause in the 0 position, number 41: 
+        84 is UNDEF, we continue.
+        96 is UNDEF, we continue.
+        -1 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 62: 
+        -1 is FALSE, we continue
+        -22 is UNDEF, we continue.
+        -35 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 87: 
+        85 is UNDEF, we continue.
+        -1 is FALSE, we continue
+        63 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 179: 
+        -42 is UNDEF, we continue.
+        99 is UNDEF, we continue.
+        -1 is FALSE, we continue
+            No conflict
+    Checking the clause in the 4 position, number 206: 
+        -1 is FALSE, we continue
+        -51 is UNDEF, we continue.
+        7 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 221: 
+        -1 is FALSE, we continue
+        63 is UNDEF, we continue.
+        -73 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 326: 
+        75 is UNDEF, we continue.
+        -1 is FALSE, we continue
+        7 is UNDEF, we continue.
+            No conflict
+Propagating literal 2
+There's 3 clauses with 2 negated:
+    Checking the clause in the 0 position, number 122: 
+        -2 is FALSE, we continue
+        22 is UNDEF, we continue.
+        -6 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 141: 
+        -2 is FALSE, we continue
+        75 is UNDEF, we continue.
+        -10 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 387: 
+        -2 is FALSE, we continue
+        15 is UNDEF, we continue.
+        24 is UNDEF, we continue.
+            No conflict
+Propagating literal 3
+There's 2 clauses with 3 negated:
+    Checking the clause in the 0 position, number 107: 
+        -3 is FALSE, we continue
+        26 is UNDEF, we continue.
+        5 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 360: 
+        -3 is FALSE, we continue
+        5 is UNDEF, we continue.
+        -77 is UNDEF, we continue.
+            No conflict
+Propagating literal 4
+There's 6 clauses with 4 negated:
+    Checking the clause in the 0 position, number 95: 
+        -57 is UNDEF, we continue.
+        -4 is FALSE, we continue
+        -96 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 149: 
+        15 is UNDEF, we continue.
+        94 is UNDEF, we continue.
+        -4 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 178: 
+        35 is UNDEF, we continue.
+        -4 is FALSE, we continue
+        6 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 210: 
+        85 is UNDEF, we continue.
+        -21 is UNDEF, we continue.
+        -4 is FALSE, we continue
+            No conflict
+    Checking the clause in the 4 position, number 366: 
+        52 is UNDEF, we continue.
+        -4 is FALSE, we continue
+        58 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 410: 
+        -4 is FALSE, we continue
+        91 is UNDEF, we continue.
+        -97 is UNDEF, we continue.
+            No conflict
+Propagating literal 5
+There's 8 clauses with 5 negated:
+    Checking the clause in the 0 position, number 76: 
+        -5 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 104: 
+        -50 is UNDEF, we continue.
+        -5 is FALSE, we continue
+        -19 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 205: 
+        90 is UNDEF, we continue.
+        -5 is FALSE, we continue
+        34 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 208: 
+        -5 is FALSE, we continue
+        -28 is UNDEF, we continue.
+        -62 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 270: 
+        76 is UNDEF, we continue.
+        -5 is FALSE, we continue
+        6 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 303: 
+        -5 is FALSE, we continue
+        60 is UNDEF, we continue.
+        48 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 311: 
+        -38 is UNDEF, we continue.
+        -5 is FALSE, we continue
+        56 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 363: 
+        -5 is FALSE, we continue
+        49 is UNDEF, we continue.
+        46 is UNDEF, we continue.
+            No conflict
+Propagating literal 6
+There's 8 clauses with 6 negated:
+    Checking the clause in the 0 position, number 25: 
+        -58 is UNDEF, we continue.
+        19 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 122: 
+        -2 is FALSE, we continue
+        22 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            Only one UNDEF, 22, which we set to true.
+    Checking the clause in the 2 position, number 234: 
+        40 is UNDEF, we continue.
+        23 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 268: 
+        -6 is FALSE, we continue
+        -25 is UNDEF, we continue.
+        93 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 285: 
+        35 is UNDEF, we continue.
+        -6 is FALSE, we continue
+        -27 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 338: 
+        -6 is FALSE, we continue
+        100 is UNDEF, we continue.
+        76 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 344: 
+        -78 is UNDEF, we continue.
+        46 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+    Checking the clause in the 7 position, number 385: 
+        48 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+There's 8 clauses with 6 negated:
+    Checking the clause in the 0 position, number 25: 
+        -58 is UNDEF, we continue.
+        19 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 122: 
+        -2 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 234: 
+        40 is UNDEF, we continue.
+        23 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 268: 
+        -6 is FALSE, we continue
+        -25 is UNDEF, we continue.
+        93 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 285: 
+        35 is UNDEF, we continue.
+        -6 is FALSE, we continue
+        -27 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 338: 
+        -6 is FALSE, we continue
+        100 is UNDEF, we continue.
+        76 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 344: 
+        -78 is UNDEF, we continue.
+        46 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+    Checking the clause in the 7 position, number 385: 
+        48 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+        -6 is FALSE, we continue
+            No conflict
+Propagating literal 7
+There's 2 clauses with 7 negated:
+    Checking the clause in the 0 position, number 12: 
+        -61 is UNDEF, we continue.
+        -97 is UNDEF, we continue.
+        -7 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 39: 
+        62 is UNDEF, we continue.
+        -7 is FALSE, we continue
+        85 is UNDEF, we continue.
+            No conflict
+Propagating literal 8
+There's 3 clauses with 8 negated:
+    Checking the clause in the 0 position, number 192: 
+        -8 is FALSE, we continue
+        18 is UNDEF, we continue.
+        -54 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 257: 
+        -80 is UNDEF, we continue.
+        -8 is FALSE, we continue
+        94 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 364: 
+        51 is UNDEF, we continue.
+        -8 is FALSE, we continue
+        -85 is UNDEF, we continue.
+            No conflict
+Propagating literal 9
+There's 6 clauses with 9 negated:
+    Checking the clause in the 0 position, number 33: 
+        60 is UNDEF, we continue.
+        -46 is UNDEF, we continue.
+        -9 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 217: 
+        18 is UNDEF, we continue.
+        -82 is UNDEF, we continue.
+        -9 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 262: 
+        39 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+        -9 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 319: 
+        -69 is UNDEF, we continue.
+        -9 is FALSE, we continue
+        -54 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 359: 
+        -66 is UNDEF, we continue.
+        -9 is FALSE, we continue
+        87 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 371: 
+        -9 is FALSE, we continue
+        -22 is FALSE, we continue
+        25 is UNDEF, we continue.
+            Only one UNDEF, 25, which we set to true.
+There's 6 clauses with 9 negated:
+    Checking the clause in the 0 position, number 33: 
+        60 is UNDEF, we continue.
+        -46 is UNDEF, we continue.
+        -9 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 217: 
+        18 is UNDEF, we continue.
+        -82 is UNDEF, we continue.
+        -9 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 262: 
+        39 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+        -9 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 319: 
+        -69 is UNDEF, we continue.
+        -9 is FALSE, we continue
+        -54 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 359: 
+        -66 is UNDEF, we continue.
+        -9 is FALSE, we continue
+        87 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 371: 
+        -9 is FALSE, we continue
+        -22 is FALSE, we continue
+        25 is TRUE, we are done here.
+            No conflict
+Propagating literal 10
+There's 4 clauses with 10 negated:
+    Checking the clause in the 0 position, number 55: 
+        91 is UNDEF, we continue.
+        -10 is FALSE, we continue
+        -30 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 141: 
+        -2 is FALSE, we continue
+        75 is UNDEF, we continue.
+        -10 is FALSE, we continue
+            Only one UNDEF, 75, which we set to true.
+    Checking the clause in the 2 position, number 240: 
+        72 is UNDEF, we continue.
+        -10 is FALSE, we continue
+        -67 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is UNDEF, we continue.
+        -30 is UNDEF, we continue.
+            No conflict
+There's 4 clauses with 10 negated:
+    Checking the clause in the 0 position, number 55: 
+        91 is UNDEF, we continue.
+        -10 is FALSE, we continue
+        -30 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 141: 
+        -2 is FALSE, we continue
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 240: 
+        72 is UNDEF, we continue.
+        -10 is FALSE, we continue
+        -67 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is UNDEF, we continue.
+        -30 is UNDEF, we continue.
+            No conflict
+Propagating literal 11
+There's 5 clauses with 11 negated:
+    Checking the clause in the 0 position, number 22: 
+        97 is UNDEF, we continue.
+        -11 is FALSE, we continue
+        -81 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 46: 
+        -11 is FALSE, we continue
+        24 is UNDEF, we continue.
+        23 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 71: 
+        -43 is UNDEF, we continue.
+        40 is UNDEF, we continue.
+        -11 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 100: 
+        70 is UNDEF, we continue.
+        -65 is UNDEF, we continue.
+        -11 is FALSE, we continue
+            No conflict
+    Checking the clause in the 4 position, number 394: 
+        -23 is UNDEF, we continue.
+        -11 is FALSE, we continue
+        -67 is UNDEF, we continue.
+            No conflict
+Propagating literal 12
+There's 4 clauses with 12 negated:
+    Checking the clause in the 0 position, number 70: 
+        6 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 124: 
+        -97 is UNDEF, we continue.
+        -37 is UNDEF, we continue.
+        -12 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 207: 
+        93 is UNDEF, we continue.
+        -12 is FALSE, we continue
+        -35 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 249: 
+        3 is TRUE, we are done here.
+            No conflict
+Propagating literal 13
+There's 8 clauses with 13 negated:
+    Checking the clause in the 0 position, number 47: 
+        1 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 51: 
+        93 is UNDEF, we continue.
+        48 is UNDEF, we continue.
+        -13 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 53: 
+        97 is UNDEF, we continue.
+        -75 is FALSE, we continue
+        -13 is FALSE, we continue
+            Only one UNDEF, 97, which we set to true.
+    Checking the clause in the 3 position, number 108: 
+        33 is UNDEF, we continue.
+        -13 is FALSE, we continue
+        -72 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 153: 
+        -76 is UNDEF, we continue.
+        -13 is FALSE, we continue
+        44 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 157: 
+        10 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 199: 
+        -64 is UNDEF, we continue.
+        89 is UNDEF, we continue.
+        -13 is FALSE, we continue
+            No conflict
+    Checking the clause in the 7 position, number 225: 
+        -13 is FALSE, we continue
+        33 is UNDEF, we continue.
+        -20 is UNDEF, we continue.
+            No conflict
+There's 8 clauses with 13 negated:
+    Checking the clause in the 0 position, number 47: 
+        1 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 51: 
+        93 is UNDEF, we continue.
+        48 is UNDEF, we continue.
+        -13 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 53: 
+        97 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 108: 
+        33 is UNDEF, we continue.
+        -13 is FALSE, we continue
+        -72 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 153: 
+        -76 is UNDEF, we continue.
+        -13 is FALSE, we continue
+        44 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 157: 
+        10 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 199: 
+        -64 is UNDEF, we continue.
+        89 is UNDEF, we continue.
+        -13 is FALSE, we continue
+            No conflict
+    Checking the clause in the 7 position, number 225: 
+        -13 is FALSE, we continue
+        33 is UNDEF, we continue.
+        -20 is UNDEF, we continue.
+            No conflict
+Propagating literal 14
+There's 9 clauses with 14 negated:
+    Checking the clause in the 0 position, number 7: 
+        -14 is FALSE, we continue
+        6 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 123: 
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 139: 
+        -14 is FALSE, we continue
+        -92 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 184: 
+        -14 is FALSE, we continue
+        52 is UNDEF, we continue.
+        58 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 185: 
+        -95 is UNDEF, we continue.
+        -71 is UNDEF, we continue.
+        -14 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 224: 
+        -33 is UNDEF, we continue.
+        -14 is FALSE, we continue
+        95 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is UNDEF, we continue.
+        -14 is FALSE, we continue
+        53 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 266: 
+        -14 is FALSE, we continue
+        24 is UNDEF, we continue.
+        -31 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 8 position, number 333: 
+        47 is UNDEF, we continue.
+        -14 is FALSE, we continue
+        -41 is UNDEF, we continue.
+            No conflict
+Propagating literal 15
+There's 6 clauses with 15 negated:
+    Checking the clause in the 0 position, number 166: 
+        85 is UNDEF, we continue.
+        -15 is FALSE, we continue
+        77 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 250: 
+        82 is UNDEF, we continue.
+        -28 is UNDEF, we continue.
+        -15 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 267: 
+        -31 is UNDEF, we continue.
+        78 is UNDEF, we continue.
+        -15 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 323: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 351: 
+        80 is UNDEF, we continue.
+        -15 is FALSE, we continue
+        -96 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 409: 
+        -15 is FALSE, we continue
+        -73 is UNDEF, we continue.
+        5 is TRUE, we are done here.
+            No conflict
+Propagating literal 16
+There's 4 clauses with 16 negated:
+    Checking the clause in the 0 position, number 45: 
+        72 is UNDEF, we continue.
+        -16 is FALSE, we continue
+        94 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 236: 
+        -59 is UNDEF, we continue.
+        100 is UNDEF, we continue.
+        -16 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 314: 
+        46 is UNDEF, we continue.
+        -16 is FALSE, we continue
+        -68 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 380: 
+        -34 is UNDEF, we continue.
+        -53 is UNDEF, we continue.
+        -16 is FALSE, we continue
+            No conflict
+Propagating literal 17
+There's 8 clauses with 17 negated:
+    Checking the clause in the 0 position, number 16: 
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 172: 
+        -44 is UNDEF, we continue.
+        -58 is UNDEF, we continue.
+        -17 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 261: 
+        -47 is UNDEF, we continue.
+        -17 is FALSE, we continue
+        38 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 293: 
+        93 is UNDEF, we continue.
+        -23 is UNDEF, we continue.
+        -17 is FALSE, we continue
+            No conflict
+    Checking the clause in the 4 position, number 329: 
+        79 is UNDEF, we continue.
+        76 is UNDEF, we continue.
+        -17 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 330: 
+        35 is UNDEF, we continue.
+        -71 is UNDEF, we continue.
+        -17 is FALSE, we continue
+            No conflict
+    Checking the clause in the 6 position, number 365: 
+        -84 is UNDEF, we continue.
+        -79 is UNDEF, we continue.
+        -17 is FALSE, we continue
+            No conflict
+    Checking the clause in the 7 position, number 374: 
+        -17 is FALSE, we continue
+        53 is UNDEF, we continue.
+        80 is UNDEF, we continue.
+            No conflict
+Propagating literal 18
+There's 6 clauses with 18 negated:
+    Checking the clause in the 0 position, number 73: 
+        -59 is UNDEF, we continue.
+        -72 is UNDEF, we continue.
+        -18 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 121: 
+        98 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+        -18 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 219: 
+        87 is UNDEF, we continue.
+        -18 is FALSE, we continue
+        1 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 249: 
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 275: 
+        70 is UNDEF, we continue.
+        -18 is FALSE, we continue
+        93 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 384: 
+        -18 is FALSE, we continue
+        63 is UNDEF, we continue.
+        78 is UNDEF, we continue.
+            No conflict
+Propagating literal 19
+There's 8 clauses with 19 negated:
+    Checking the clause in the 0 position, number 32: 
+        100 is UNDEF, we continue.
+        56 is UNDEF, we continue.
+        -19 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 38: 
+        -19 is FALSE, we continue
+        -48 is UNDEF, we continue.
+        -95 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 101: 
+        -59 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -27 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 104: 
+        -50 is UNDEF, we continue.
+        -5 is FALSE, we continue
+        -19 is FALSE, we continue
+            Only one UNDEF, -50, which we set to true.
+    Checking the clause in the 4 position, number 131: 
+        -75 is FALSE, we continue
+        98 is UNDEF, we continue.
+        -19 is FALSE, we continue
+            Only one UNDEF, 98, which we set to true.
+    Checking the clause in the 5 position, number 173: 
+        27 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -28 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 193: 
+        -19 is FALSE, we continue
+        -100 is UNDEF, we continue.
+        -70 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 215: 
+        -79 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        57 is UNDEF, we continue.
+            No conflict
+There's 8 clauses with 19 negated:
+    Checking the clause in the 0 position, number 32: 
+        100 is UNDEF, we continue.
+        56 is UNDEF, we continue.
+        -19 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 38: 
+        -19 is FALSE, we continue
+        -48 is UNDEF, we continue.
+        -95 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 101: 
+        -59 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -27 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 104: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 131: 
+        -75 is FALSE, we continue
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 173: 
+        27 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -28 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 193: 
+        -19 is FALSE, we continue
+        -100 is UNDEF, we continue.
+        -70 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 215: 
+        -79 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        57 is UNDEF, we continue.
+            No conflict
+There's 8 clauses with 19 negated:
+    Checking the clause in the 0 position, number 32: 
+        100 is UNDEF, we continue.
+        56 is UNDEF, we continue.
+        -19 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 38: 
+        -19 is FALSE, we continue
+        -48 is UNDEF, we continue.
+        -95 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 101: 
+        -59 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -27 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 104: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 131: 
+        -75 is FALSE, we continue
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 173: 
+        27 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -28 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 193: 
+        -19 is FALSE, we continue
+        -100 is UNDEF, we continue.
+        -70 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 215: 
+        -79 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        57 is UNDEF, we continue.
+            No conflict
+Propagating literal 20
+There's 12 clauses with 20 negated:
+    Checking the clause in the 0 position, number 110: 
+        -20 is FALSE, we continue
+        51 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 129: 
+        -72 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        -97 is FALSE, we continue
+            Only one UNDEF, -72, which we set to true.
+    Checking the clause in the 3 position, number 225: 
+        -13 is FALSE, we continue
+        33 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            Only one UNDEF, 33, which we set to true.
+    Checking the clause in the 4 position, number 229: 
+        -20 is FALSE, we continue
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 248: 
+        -100 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is FALSE, we continue
+        -14 is FALSE, we continue
+        53 is UNDEF, we continue.
+            Only one UNDEF, 53, which we set to true.
+    Checking the clause in the 7 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 346: 
+        -25 is FALSE, we continue
+        -20 is FALSE, we continue
+        -84 is UNDEF, we continue.
+            Only one UNDEF, -84, which we set to true.
+    Checking the clause in the 9 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            No conflict
+    Checking the clause in the 10 position, number 368: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 396: 
+        -33 is FALSE, we continue
+        -20 is FALSE, we continue
+        -79 is UNDEF, we continue.
+            Only one UNDEF, -79, which we set to true.
+There's 12 clauses with 20 negated:
+    Checking the clause in the 0 position, number 110: 
+        -20 is FALSE, we continue
+        51 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 129: 
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 225: 
+        -13 is FALSE, we continue
+        33 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 229: 
+        -20 is FALSE, we continue
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 248: 
+        -100 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is FALSE, we continue
+        -14 is FALSE, we continue
+        53 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 346: 
+        -25 is FALSE, we continue
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            No conflict
+    Checking the clause in the 10 position, number 368: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 396: 
+        -33 is FALSE, we continue
+        -20 is FALSE, we continue
+        -79 is TRUE, we are done here.
+            No conflict
+There's 12 clauses with 20 negated:
+    Checking the clause in the 0 position, number 110: 
+        -20 is FALSE, we continue
+        51 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 129: 
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 225: 
+        -13 is FALSE, we continue
+        33 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 229: 
+        -20 is FALSE, we continue
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 248: 
+        -100 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is FALSE, we continue
+        -14 is FALSE, we continue
+        53 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 346: 
+        -25 is FALSE, we continue
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            No conflict
+    Checking the clause in the 10 position, number 368: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 396: 
+        -33 is FALSE, we continue
+        -20 is FALSE, we continue
+        -79 is TRUE, we are done here.
+            No conflict
+There's 12 clauses with 20 negated:
+    Checking the clause in the 0 position, number 110: 
+        -20 is FALSE, we continue
+        51 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 129: 
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 225: 
+        -13 is FALSE, we continue
+        33 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 229: 
+        -20 is FALSE, we continue
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 248: 
+        -100 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is FALSE, we continue
+        -14 is FALSE, we continue
+        53 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 346: 
+        -25 is FALSE, we continue
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            No conflict
+    Checking the clause in the 10 position, number 368: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 396: 
+        -33 is FALSE, we continue
+        -20 is FALSE, we continue
+        -79 is TRUE, we are done here.
+            No conflict
+There's 12 clauses with 20 negated:
+    Checking the clause in the 0 position, number 110: 
+        -20 is FALSE, we continue
+        51 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 129: 
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 225: 
+        -13 is FALSE, we continue
+        33 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 229: 
+        -20 is FALSE, we continue
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 248: 
+        -100 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is FALSE, we continue
+        -14 is FALSE, we continue
+        53 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 346: 
+        -25 is FALSE, we continue
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            No conflict
+    Checking the clause in the 10 position, number 368: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 396: 
+        -33 is FALSE, we continue
+        -20 is FALSE, we continue
+        -79 is TRUE, we are done here.
+            No conflict
+There's 12 clauses with 20 negated:
+    Checking the clause in the 0 position, number 110: 
+        -20 is FALSE, we continue
+        51 is UNDEF, we continue.
+        91 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 129: 
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 225: 
+        -13 is FALSE, we continue
+        33 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 229: 
+        -20 is FALSE, we continue
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 248: 
+        -100 is UNDEF, we continue.
+        -20 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 260: 
+        -20 is FALSE, we continue
+        -14 is FALSE, we continue
+        53 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 346: 
+        -25 is FALSE, we continue
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is UNDEF, we continue.
+        -20 is FALSE, we continue
+            No conflict
+    Checking the clause in the 10 position, number 368: 
+        8 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 396: 
+        -33 is FALSE, we continue
+        -20 is FALSE, we continue
+        -79 is TRUE, we are done here.
+            No conflict
+Propagating literal 21
+There's 5 clauses with 21 negated:
+    Checking the clause in the 0 position, number 125: 
+        -51 is UNDEF, we continue.
+        -21 is FALSE, we continue
+        74 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 210: 
+        85 is UNDEF, we continue.
+        -21 is FALSE, we continue
+        -4 is FALSE, we continue
+            Only one UNDEF, 85, which we set to true.
+    Checking the clause in the 2 position, number 306: 
+        -71 is UNDEF, we continue.
+        -56 is UNDEF, we continue.
+        -21 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 381: 
+        -21 is FALSE, we continue
+        72 is FALSE, we continue
+        -91 is UNDEF, we continue.
+            Only one UNDEF, -91, which we set to true.
+    Checking the clause in the 4 position, number 382: 
+        31 is UNDEF, we continue.
+        -36 is UNDEF, we continue.
+        -21 is FALSE, we continue
+            No conflict
+There's 5 clauses with 21 negated:
+    Checking the clause in the 0 position, number 125: 
+        -51 is UNDEF, we continue.
+        -21 is FALSE, we continue
+        74 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 210: 
+        85 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 306: 
+        -71 is UNDEF, we continue.
+        -56 is UNDEF, we continue.
+        -21 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 381: 
+        -21 is FALSE, we continue
+        72 is FALSE, we continue
+        -91 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 382: 
+        31 is UNDEF, we continue.
+        -36 is UNDEF, we continue.
+        -21 is FALSE, we continue
+            No conflict
+There's 5 clauses with 21 negated:
+    Checking the clause in the 0 position, number 125: 
+        -51 is UNDEF, we continue.
+        -21 is FALSE, we continue
+        74 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 210: 
+        85 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 306: 
+        -71 is UNDEF, we continue.
+        -56 is UNDEF, we continue.
+        -21 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 381: 
+        -21 is FALSE, we continue
+        72 is FALSE, we continue
+        -91 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 382: 
+        31 is UNDEF, we continue.
+        -36 is UNDEF, we continue.
+        -21 is FALSE, we continue
+            No conflict
+Propagating literal 23
+There's 3 clauses with 23 negated:
+    Checking the clause in the 0 position, number 293: 
+        93 is UNDEF, we continue.
+        -23 is FALSE, we continue
+        -17 is FALSE, we continue
+            Only one UNDEF, 93, which we set to true.
+    Checking the clause in the 1 position, number 318: 
+        28 is UNDEF, we continue.
+        -22 is FALSE, we continue
+        -23 is FALSE, we continue
+            Only one UNDEF, 28, which we set to true.
+    Checking the clause in the 2 position, number 394: 
+        -23 is FALSE, we continue
+        -11 is FALSE, we continue
+        -67 is UNDEF, we continue.
+            Only one UNDEF, -67, which we set to true.
+There's 3 clauses with 23 negated:
+    Checking the clause in the 0 position, number 293: 
+        93 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 318: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 394: 
+        -23 is FALSE, we continue
+        -11 is FALSE, we continue
+        -67 is TRUE, we are done here.
+            No conflict
+There's 3 clauses with 23 negated:
+    Checking the clause in the 0 position, number 293: 
+        93 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 318: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 394: 
+        -23 is FALSE, we continue
+        -11 is FALSE, we continue
+        -67 is TRUE, we are done here.
+            No conflict
+There's 3 clauses with 23 negated:
+    Checking the clause in the 0 position, number 293: 
+        93 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 318: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 394: 
+        -23 is FALSE, we continue
+        -11 is FALSE, we continue
+        -67 is TRUE, we are done here.
+            No conflict
+Propagating literal 24
+There's 5 clauses with 24 negated:
+    Checking the clause in the 0 position, number 232: 
+        -24 is FALSE, we continue
+        -42 is UNDEF, we continue.
+        -55 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 255: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 362: 
+        -24 is FALSE, we continue
+        -40 is UNDEF, we continue.
+        -47 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 377: 
+        -43 is UNDEF, we continue.
+        -24 is FALSE, we continue
+        -31 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 383: 
+        -24 is FALSE, we continue
+        -71 is UNDEF, we continue.
+        91 is FALSE, we continue
+            Only one UNDEF, -71, which we set to true.
+There's 5 clauses with 24 negated:
+    Checking the clause in the 0 position, number 232: 
+        -24 is FALSE, we continue
+        -42 is UNDEF, we continue.
+        -55 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 255: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 362: 
+        -24 is FALSE, we continue
+        -40 is UNDEF, we continue.
+        -47 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 377: 
+        -43 is UNDEF, we continue.
+        -24 is FALSE, we continue
+        -31 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 383: 
+        -24 is FALSE, we continue
+        -71 is TRUE, we are done here.
+            No conflict
+Propagating literal 26
+There's 9 clauses with 26 negated:
+    Checking the clause in the 0 position, number 3: 
+        -26 is FALSE, we continue
+        -69 is UNDEF, we continue.
+        -51 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 96: 
+        -42 is UNDEF, we continue.
+        -26 is FALSE, we continue
+        -76 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 126: 
+        -67 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 151: 
+        -26 is FALSE, we continue
+        20 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 203: 
+        -26 is FALSE, we continue
+        62 is UNDEF, we continue.
+        47 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 5 position, number 216: 
+        -53 is FALSE, we continue
+        -26 is FALSE, we continue
+        14 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 254: 
+        43 is UNDEF, we continue.
+        -26 is FALSE, we continue
+        86 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 358: 
+        -27 is UNDEF, we continue.
+        -26 is FALSE, we continue
+        81 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 8 position, number 388: 
+        3 is TRUE, we are done here.
+            No conflict
+Propagating literal 27
+There's 6 clauses with 27 negated:
+    Checking the clause in the 0 position, number 57: 
+        -27 is FALSE, we continue
+        -75 is FALSE, we continue
+        71 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 6 clauses with 27 negated:
+    Checking the clause in the 0 position, number 57: 
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 65: 
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 101: 
+        -59 is UNDEF, we continue.
+        -19 is FALSE, we continue
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 285: 
+        35 is UNDEF, we continue.
+        -6 is FALSE, we continue
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 299: 
+        65 is UNDEF, we continue.
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 358: 
+        -27 is TRUE, we are done here.
+            No conflict
+Propagating literal 29
+There's 11 clauses with 29 negated:
+    Checking the clause in the 0 position, number 21: 
+        -29 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 56: 
+        71 is FALSE, we continue
+        -29 is FALSE, we continue
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 61: 
+        74 is UNDEF, we continue.
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 85: 
+        -29 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 136: 
+        -61 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        83 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 191: 
+        -90 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        10 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 202: 
+        -29 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -62 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 8 position, number 296: 
+        -29 is FALSE, we continue
+        64 is UNDEF, we continue.
+        47 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 9 position, number 307: 
+        -39 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        76 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 10 position, number 361: 
+        86 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        -20 is FALSE, we continue
+            Only one UNDEF, 86, which we set to true.
+There's 11 clauses with 29 negated:
+    Checking the clause in the 0 position, number 21: 
+        -29 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 56: 
+        71 is FALSE, we continue
+        -29 is FALSE, we continue
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 61: 
+        74 is UNDEF, we continue.
+        11 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 85: 
+        -29 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 115: 
+        -20 is FALSE, we continue
+        -84 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 136: 
+        -61 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        83 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 6 position, number 191: 
+        -90 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        10 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 202: 
+        -29 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -62 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 8 position, number 296: 
+        -29 is FALSE, we continue
+        64 is UNDEF, we continue.
+        47 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 9 position, number 307: 
+        -39 is UNDEF, we continue.
+        -29 is FALSE, we continue
+        76 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 10 position, number 361: 
+        86 is TRUE, we are done here.
+            No conflict
+Propagating literal 30
+There's 8 clauses with 30 negated:
+    Checking the clause in the 0 position, number 23: 
+        51 is UNDEF, we continue.
+        -30 is FALSE, we continue
+        -100 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 28: 
+        -30 is FALSE, we continue
+        -37 is UNDEF, we continue.
+        52 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 55: 
+        91 is FALSE, we continue
+        -10 is FALSE, we continue
+        -30 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 8 clauses with 30 negated:
+    Checking the clause in the 0 position, number 23: 
+        51 is UNDEF, we continue.
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 28: 
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 55: 
+        91 is FALSE, we continue
+        -10 is FALSE, we continue
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 69: 
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 133: 
+        -88 is UNDEF, we continue.
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 211: 
+        4 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 355: 
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is UNDEF, we continue.
+        -30 is TRUE, we are done here.
+            No conflict
+Propagating literal 31
+There's 14 clauses with 31 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is UNDEF, we continue.
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 18: 
+        -36 is UNDEF, we continue.
+        -31 is FALSE, we continue
+        -53 is FALSE, we continue
+            Only one UNDEF, -36, which we set to true.
+    Checking the clause in the 2 position, number 34: 
+        -31 is FALSE, we continue
+        -25 is FALSE, we continue
+        -95 is UNDEF, we continue.
+            Only one UNDEF, -95, which we set to true.
+    Checking the clause in the 3 position, number 138: 
+        -31 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -80 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 204: 
+        49 is UNDEF, we continue.
+        87 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 258: 
+        -31 is FALSE, we continue
+        40 is UNDEF, we continue.
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 266: 
+        -14 is FALSE, we continue
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 267: 
+        -31 is FALSE, we continue
+        78 is UNDEF, we continue.
+        -15 is FALSE, we continue
+            Only one UNDEF, 78, which we set to true.
+    Checking the clause in the 8 position, number 287: 
+        70 is UNDEF, we continue.
+        45 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 9 position, number 290: 
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 345: 
+        -37 is UNDEF, we continue.
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 353: 
+        -59 is UNDEF, we continue.
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 12 position, number 377: 
+        -43 is UNDEF, we continue.
+        -24 is FALSE, we continue
+        -31 is FALSE, we continue
+            Only one UNDEF, -43, which we set to true.
+    Checking the clause in the 13 position, number 423: 
+        36 is FALSE, we continue
+        -32 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            Only one UNDEF, -32, which we set to true.
+There's 14 clauses with 31 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is UNDEF, we continue.
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 18: 
+        -36 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 34: 
+        -31 is FALSE, we continue
+        -25 is FALSE, we continue
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 138: 
+        -31 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -80 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 204: 
+        49 is UNDEF, we continue.
+        87 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 258: 
+        -31 is FALSE, we continue
+        40 is UNDEF, we continue.
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 266: 
+        -14 is FALSE, we continue
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 267: 
+        -31 is FALSE, we continue
+        78 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 287: 
+        70 is UNDEF, we continue.
+        45 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 9 position, number 290: 
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 345: 
+        -37 is UNDEF, we continue.
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 353: 
+        -59 is UNDEF, we continue.
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 12 position, number 377: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 13 position, number 423: 
+        36 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+There's 14 clauses with 31 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is UNDEF, we continue.
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 18: 
+        -36 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 34: 
+        -31 is FALSE, we continue
+        -25 is FALSE, we continue
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 138: 
+        -31 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -80 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 204: 
+        49 is UNDEF, we continue.
+        87 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 258: 
+        -31 is FALSE, we continue
+        40 is UNDEF, we continue.
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 266: 
+        -14 is FALSE, we continue
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 267: 
+        -31 is FALSE, we continue
+        78 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 287: 
+        70 is UNDEF, we continue.
+        45 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 9 position, number 290: 
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 345: 
+        -37 is UNDEF, we continue.
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 353: 
+        -59 is UNDEF, we continue.
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 12 position, number 377: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 13 position, number 423: 
+        36 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+There's 14 clauses with 31 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is UNDEF, we continue.
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 18: 
+        -36 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 34: 
+        -31 is FALSE, we continue
+        -25 is FALSE, we continue
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 138: 
+        -31 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -80 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 204: 
+        49 is UNDEF, we continue.
+        87 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 258: 
+        -31 is FALSE, we continue
+        40 is UNDEF, we continue.
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 266: 
+        -14 is FALSE, we continue
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 267: 
+        -31 is FALSE, we continue
+        78 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 287: 
+        70 is UNDEF, we continue.
+        45 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 9 position, number 290: 
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 345: 
+        -37 is UNDEF, we continue.
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 353: 
+        -59 is UNDEF, we continue.
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 12 position, number 377: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 13 position, number 423: 
+        36 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+There's 14 clauses with 31 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is UNDEF, we continue.
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 18: 
+        -36 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 34: 
+        -31 is FALSE, we continue
+        -25 is FALSE, we continue
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 138: 
+        -31 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -80 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 204: 
+        49 is UNDEF, we continue.
+        87 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 258: 
+        -31 is FALSE, we continue
+        40 is UNDEF, we continue.
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 266: 
+        -14 is FALSE, we continue
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 267: 
+        -31 is FALSE, we continue
+        78 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 287: 
+        70 is UNDEF, we continue.
+        45 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 9 position, number 290: 
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 345: 
+        -37 is UNDEF, we continue.
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 353: 
+        -59 is UNDEF, we continue.
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 12 position, number 377: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 13 position, number 423: 
+        36 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+There's 14 clauses with 31 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is UNDEF, we continue.
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 18: 
+        -36 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 34: 
+        -31 is FALSE, we continue
+        -25 is FALSE, we continue
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 138: 
+        -31 is FALSE, we continue
+        61 is UNDEF, we continue.
+        -80 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 204: 
+        49 is UNDEF, we continue.
+        87 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 5 position, number 258: 
+        -31 is FALSE, we continue
+        40 is UNDEF, we continue.
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 266: 
+        -14 is FALSE, we continue
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 267: 
+        -31 is FALSE, we continue
+        78 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 287: 
+        70 is UNDEF, we continue.
+        45 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 9 position, number 290: 
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 345: 
+        -37 is UNDEF, we continue.
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 353: 
+        -59 is UNDEF, we continue.
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            No conflict
+    Checking the clause in the 12 position, number 377: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 13 position, number 423: 
+        36 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+Propagating literal 34
+There's 7 clauses with 34 negated:
+    Checking the clause in the 0 position, number 13: 
+        -34 is FALSE, we continue
+        -48 is UNDEF, we continue.
+        64 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 1 position, number 142: 
+        77 is UNDEF, we continue.
+        -74 is UNDEF, we continue.
+        -34 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 180: 
+        81 is UNDEF, we continue.
+        -34 is FALSE, we continue
+        -37 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 181: 
+        -34 is FALSE, we continue
+        44 is UNDEF, we continue.
+        88 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 380: 
+        -34 is FALSE, we continue
+        -53 is FALSE, we continue
+        -16 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 7 clauses with 34 negated:
+    Checking the clause in the 0 position, number 13: 
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 142: 
+        77 is UNDEF, we continue.
+        -74 is UNDEF, we continue.
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 180: 
+        81 is UNDEF, we continue.
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 181: 
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 380: 
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 392: 
+        30 is FALSE, we continue
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 415: 
+        -79 is TRUE, we are done here.
+            No conflict
+Propagating literal 35
+There's 6 clauses with 35 negated:
+    Checking the clause in the 0 position, number 62: 
+        -1 is FALSE, we continue
+        -22 is FALSE, we continue
+        -35 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 6 clauses with 35 negated:
+    Checking the clause in the 0 position, number 62: 
+        -1 is FALSE, we continue
+        -22 is FALSE, we continue
+        -35 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 93: 
+        -79 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 97: 
+        86 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 207: 
+        93 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 388: 
+        3 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 406: 
+        -35 is TRUE, we are done here.
+            No conflict
+Propagating literal 37
+There's 12 clauses with 37 negated:
+    Checking the clause in the 0 position, number 28: 
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 124: 
+        -97 is FALSE, we continue
+        -37 is FALSE, we continue
+        -12 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 12 clauses with 37 negated:
+    Checking the clause in the 0 position, number 28: 
+        -30 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 124: 
+        -97 is FALSE, we continue
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 154: 
+        -99 is UNDEF, we continue.
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 165: 
+        97 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 180: 
+        81 is UNDEF, we continue.
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 214: 
+        -81 is UNDEF, we continue.
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 336: 
+        -49 is UNDEF, we continue.
+        43 is FALSE, we continue
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 345: 
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 347: 
+        -94 is UNDEF, we continue.
+        20 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 392: 
+        30 is FALSE, we continue
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 421: 
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 424: 
+        -37 is TRUE, we are done here.
+            No conflict
+Propagating literal 38
+There's 9 clauses with 38 negated:
+    Checking the clause in the 0 position, number 77: 
+        29 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 99: 
+        -38 is FALSE, we continue
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 146: 
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 152: 
+        70 is UNDEF, we continue.
+        -38 is FALSE, we continue
+        -94 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 196: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 226: 
+        21 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 246: 
+        -38 is FALSE, we continue
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 300: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 311: 
+        -38 is FALSE, we continue
+        -5 is FALSE, we continue
+        56 is UNDEF, we continue.
+            Only one UNDEF, 56, which we set to true.
+There's 9 clauses with 38 negated:
+    Checking the clause in the 0 position, number 77: 
+        29 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 99: 
+        -38 is FALSE, we continue
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 146: 
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 152: 
+        70 is UNDEF, we continue.
+        -38 is FALSE, we continue
+        -94 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 196: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 226: 
+        21 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 246: 
+        -38 is FALSE, we continue
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 300: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 311: 
+        -38 is FALSE, we continue
+        -5 is FALSE, we continue
+        56 is TRUE, we are done here.
+            No conflict
+Propagating literal 39
+There's 7 clauses with 39 negated:
+    Checking the clause in the 0 position, number 6: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 37: 
+        -88 is UNDEF, we continue.
+        80 is UNDEF, we continue.
+        -39 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 113: 
+        41 is UNDEF, we continue.
+        -39 is FALSE, we continue
+        5 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 187: 
+        -65 is UNDEF, we continue.
+        -39 is FALSE, we continue
+        -82 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 218: 
+        99 is UNDEF, we continue.
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 307: 
+        -39 is FALSE, we continue
+        -29 is FALSE, we continue
+        76 is UNDEF, we continue.
+            Only one UNDEF, 76, which we set to true.
+    Checking the clause in the 6 position, number 309: 
+        33 is TRUE, we are done here.
+            No conflict
+There's 7 clauses with 39 negated:
+    Checking the clause in the 0 position, number 6: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 37: 
+        -88 is UNDEF, we continue.
+        80 is UNDEF, we continue.
+        -39 is FALSE, we continue
+            No conflict
+    Checking the clause in the 2 position, number 113: 
+        41 is UNDEF, we continue.
+        -39 is FALSE, we continue
+        5 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 187: 
+        -65 is UNDEF, we continue.
+        -39 is FALSE, we continue
+        -82 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 4 position, number 218: 
+        99 is UNDEF, we continue.
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 307: 
+        -39 is FALSE, we continue
+        -29 is FALSE, we continue
+        76 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 309: 
+        33 is TRUE, we are done here.
+            No conflict
+Propagating literal 40
+There's 8 clauses with 40 negated:
+    Checking the clause in the 0 position, number 27: 
+        67 is FALSE, we continue
+        -40 is FALSE, we continue
+        20 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 103: 
+        -40 is FALSE, we continue
+        46 is UNDEF, we continue.
+        48 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 120: 
+        -40 is FALSE, we continue
+        44 is UNDEF, we continue.
+        -22 is FALSE, we continue
+            Only one UNDEF, 44, which we set to true.
+    Checking the clause in the 3 position, number 169: 
+        -40 is FALSE, we continue
+        47 is UNDEF, we continue.
+        -22 is FALSE, we continue
+            Only one UNDEF, 47, which we set to true.
+    Checking the clause in the 4 position, number 313: 
+        -40 is FALSE, we continue
+        58 is UNDEF, we continue.
+        -78 is FALSE, we continue
+            Only one UNDEF, 58, which we set to true.
+    Checking the clause in the 5 position, number 362: 
+        -24 is FALSE, we continue
+        -40 is FALSE, we continue
+        -47 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 8 clauses with 40 negated:
+    Checking the clause in the 0 position, number 27: 
+        67 is FALSE, we continue
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 103: 
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 120: 
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 169: 
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 313: 
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 362: 
+        -24 is FALSE, we continue
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 386: 
+        58 is UNDEF, we continue.
+        91 is FALSE, we continue
+        -40 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 407: 
+        -33 is FALSE, we continue
+        -40 is TRUE, we are done here.
+            No conflict
+Propagating literal 41
+There's 6 clauses with 41 negated:
+    Checking the clause in the 0 position, number 158: 
+        -41 is FALSE, we continue
+        -49 is UNDEF, we continue.
+        -71 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 220: 
+        84 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 233: 
+        -41 is FALSE, we continue
+        99 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 276: 
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 333: 
+        47 is UNDEF, we continue.
+        -14 is FALSE, we continue
+        -41 is FALSE, we continue
+            Only one UNDEF, 47, which we set to true.
+    Checking the clause in the 5 position, number 395: 
+        35 is FALSE, we continue
+        -41 is FALSE, we continue
+        51 is UNDEF, we continue.
+            Only one UNDEF, 51, which we set to true.
+There's 6 clauses with 41 negated:
+    Checking the clause in the 0 position, number 158: 
+        -41 is FALSE, we continue
+        -49 is UNDEF, we continue.
+        -71 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 220: 
+        84 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 233: 
+        -41 is FALSE, we continue
+        99 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 276: 
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 333: 
+        47 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 395: 
+        35 is FALSE, we continue
+        -41 is FALSE, we continue
+        51 is TRUE, we are done here.
+            No conflict
+There's 6 clauses with 41 negated:
+    Checking the clause in the 0 position, number 158: 
+        -41 is FALSE, we continue
+        -49 is UNDEF, we continue.
+        -71 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 220: 
+        84 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 233: 
+        -41 is FALSE, we continue
+        99 is UNDEF, we continue.
+        -83 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 3 position, number 276: 
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 333: 
+        47 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 395: 
+        35 is FALSE, we continue
+        -41 is FALSE, we continue
+        51 is TRUE, we are done here.
+            No conflict
+Propagating literal 42
+There's 5 clauses with 42 negated:
+    Checking the clause in the 0 position, number 96: 
+        -42 is FALSE, we continue
+        -26 is FALSE, we continue
+        -76 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 5 clauses with 42 negated:
+    Checking the clause in the 0 position, number 96: 
+        -42 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 179: 
+        -42 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 232: 
+        -24 is FALSE, we continue
+        -42 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 256: 
+        -42 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 337: 
+        61 is UNDEF, we continue.
+        76 is TRUE, we are done here.
+            No conflict
+Propagating literal 44
+There's 6 clauses with 44 negated:
+    Checking the clause in the 0 position, number 8: 
+        -44 is FALSE, we continue
+        42 is FALSE, we continue
+        -63 is UNDEF, we continue.
+            Only one UNDEF, -63, which we set to true.
+    Checking the clause in the 1 position, number 162: 
+        61 is UNDEF, we continue.
+        -44 is FALSE, we continue
+        -73 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 172: 
+        -44 is FALSE, we continue
+        -58 is UNDEF, we continue.
+        -17 is FALSE, we continue
+            Only one UNDEF, -58, which we set to true.
+    Checking the clause in the 3 position, number 301: 
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 389: 
+        -53 is FALSE, we continue
+        -44 is FALSE, we continue
+        -60 is UNDEF, we continue.
+            Only one UNDEF, -60, which we set to true.
+    Checking the clause in the 5 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is FALSE, we continue
+        -30 is TRUE, we are done here.
+            No conflict
+There's 6 clauses with 44 negated:
+    Checking the clause in the 0 position, number 8: 
+        -44 is FALSE, we continue
+        42 is FALSE, we continue
+        -63 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 162: 
+        61 is UNDEF, we continue.
+        -44 is FALSE, we continue
+        -73 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 172: 
+        -44 is FALSE, we continue
+        -58 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 301: 
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 389: 
+        -53 is FALSE, we continue
+        -44 is FALSE, we continue
+        -60 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is FALSE, we continue
+        -30 is TRUE, we are done here.
+            No conflict
+There's 6 clauses with 44 negated:
+    Checking the clause in the 0 position, number 8: 
+        -44 is FALSE, we continue
+        42 is FALSE, we continue
+        -63 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 162: 
+        61 is UNDEF, we continue.
+        -44 is FALSE, we continue
+        -73 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 172: 
+        -44 is FALSE, we continue
+        -58 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 301: 
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 389: 
+        -53 is FALSE, we continue
+        -44 is FALSE, we continue
+        -60 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is FALSE, we continue
+        -30 is TRUE, we are done here.
+            No conflict
+There's 6 clauses with 44 negated:
+    Checking the clause in the 0 position, number 8: 
+        -44 is FALSE, we continue
+        42 is FALSE, we continue
+        -63 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 162: 
+        61 is UNDEF, we continue.
+        -44 is FALSE, we continue
+        -73 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 172: 
+        -44 is FALSE, we continue
+        -58 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 301: 
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 389: 
+        -53 is FALSE, we continue
+        -44 is FALSE, we continue
+        -60 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 420: 
+        -10 is FALSE, we continue
+        -44 is FALSE, we continue
+        -30 is TRUE, we are done here.
+            No conflict
+Propagating literal 45
+There's 6 clauses with 45 negated:
+    Checking the clause in the 0 position, number 60: 
+        -83 is UNDEF, we continue.
+        -45 is FALSE, we continue
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 269: 
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 294: 
+        -64 is UNDEF, we continue.
+        -87 is UNDEF, we continue.
+        -45 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 315: 
+        86 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 322: 
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 372: 
+        60 is FALSE, we continue
+        -45 is FALSE, we continue
+        -48 is UNDEF, we continue.
+            Only one UNDEF, -48, which we set to true.
+There's 6 clauses with 45 negated:
+    Checking the clause in the 0 position, number 60: 
+        -83 is UNDEF, we continue.
+        -45 is FALSE, we continue
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 269: 
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 294: 
+        -64 is UNDEF, we continue.
+        -87 is UNDEF, we continue.
+        -45 is FALSE, we continue
+            No conflict
+    Checking the clause in the 3 position, number 315: 
+        86 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 322: 
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 372: 
+        60 is FALSE, we continue
+        -45 is FALSE, we continue
+        -48 is TRUE, we are done here.
+            No conflict
+Propagating literal 46
+There's 3 clauses with 46 negated:
+    Checking the clause in the 0 position, number 4: 
+        -46 is FALSE, we continue
+        20 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 33: 
+        60 is FALSE, we continue
+        -46 is FALSE, we continue
+        -9 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 3 clauses with 46 negated:
+    Checking the clause in the 0 position, number 4: 
+        -46 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 33: 
+        60 is FALSE, we continue
+        -46 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 155: 
+        -46 is TRUE, we are done here.
+            No conflict
+Propagating literal 49
+There's 4 clauses with 49 negated:
+    Checking the clause in the 0 position, number 117: 
+        -49 is FALSE, we continue
+        41 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 156: 
+        75 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 158: 
+        -41 is FALSE, we continue
+        -49 is FALSE, we continue
+        -71 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 336: 
+        -49 is FALSE, we continue
+        43 is FALSE, we continue
+        -37 is TRUE, we are done here.
+            No conflict
+Propagating literal 52
+There's 4 clauses with 52 negated:
+    Checking the clause in the 0 position, number 1: 
+        -31 is FALSE, we continue
+        -52 is FALSE, we continue
+        19 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 94: 
+        -52 is FALSE, we continue
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 140: 
+        -52 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 408: 
+        100 is UNDEF, we continue.
+        -52 is FALSE, we continue
+        -55 is UNDEF, we continue.
+            No conflict
+Propagating literal 54
+There's 4 clauses with 54 negated:
+    Checking the clause in the 0 position, number 176: 
+        -54 is FALSE, we continue
+        -97 is FALSE, we continue
+        -69 is UNDEF, we continue.
+            Only one UNDEF, -69, which we set to true.
+    Checking the clause in the 1 position, number 192: 
+        -8 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 319: 
+        -69 is TRUE, we are done here.
+            No conflict
+There's 4 clauses with 54 negated:
+    Checking the clause in the 0 position, number 176: 
+        -54 is FALSE, we continue
+        -97 is FALSE, we continue
+        -69 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 192: 
+        -8 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 316: 
+        -20 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 319: 
+        -69 is TRUE, we are done here.
+            No conflict
+Propagating literal 55
+There's 7 clauses with 55 negated:
+    Checking the clause in the 0 position, number 15: 
+        42 is FALSE, we continue
+        -55 is FALSE, we continue
+        50 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 7 clauses with 55 negated:
+    Checking the clause in the 0 position, number 15: 
+        42 is FALSE, we continue
+        -55 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 232: 
+        -24 is FALSE, we continue
+        -42 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 282: 
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 291: 
+        -85 is FALSE, we continue
+        -97 is FALSE, we continue
+        -55 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 310: 
+        -55 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 408: 
+        100 is UNDEF, we continue.
+        -52 is FALSE, we continue
+        -55 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 418: 
+        73 is UNDEF, we continue.
+        50 is FALSE, we continue
+        -55 is TRUE, we are done here.
+            No conflict
+Propagating literal 57
+There's 5 clauses with 57 negated:
+    Checking the clause in the 0 position, number 95: 
+        -57 is FALSE, we continue
+        -4 is FALSE, we continue
+        -96 is UNDEF, we continue.
+            Only one UNDEF, -96, which we set to true.
+    Checking the clause in the 1 position, number 194: 
+        83 is UNDEF, we continue.
+        -57 is FALSE, we continue
+        -66 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 230: 
+        17 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 255: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 259: 
+        -57 is FALSE, we continue
+        -61 is UNDEF, we continue.
+        27 is FALSE, we continue
+            Only one UNDEF, -61, which we set to true.
+There's 5 clauses with 57 negated:
+    Checking the clause in the 0 position, number 95: 
+        -57 is FALSE, we continue
+        -4 is FALSE, we continue
+        -96 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 194: 
+        83 is UNDEF, we continue.
+        -57 is FALSE, we continue
+        -66 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 230: 
+        17 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 255: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 259: 
+        -57 is FALSE, we continue
+        -61 is TRUE, we are done here.
+            No conflict
+There's 5 clauses with 57 negated:
+    Checking the clause in the 0 position, number 95: 
+        -57 is FALSE, we continue
+        -4 is FALSE, we continue
+        -96 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 194: 
+        83 is UNDEF, we continue.
+        -57 is FALSE, we continue
+        -66 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 230: 
+        17 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 255: 
+        -50 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 259: 
+        -57 is FALSE, we continue
+        -61 is TRUE, we are done here.
+            No conflict
+Propagating literal 59
+There's 8 clauses with 59 negated:
+    Checking the clause in the 0 position, number 5: 
+        -59 is FALSE, we continue
+        -74 is UNDEF, we continue.
+        52 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 73: 
+        -59 is FALSE, we continue
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 86: 
+        -59 is FALSE, we continue
+        54 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 101: 
+        -59 is FALSE, we continue
+        -19 is FALSE, we continue
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 118: 
+        35 is FALSE, we continue
+        -59 is FALSE, we continue
+        -63 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 236: 
+        -59 is FALSE, we continue
+        100 is UNDEF, we continue.
+        -16 is FALSE, we continue
+            Only one UNDEF, 100, which we set to true.
+    Checking the clause in the 6 position, number 284: 
+        -59 is FALSE, we continue
+        27 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 353: 
+        -59 is FALSE, we continue
+        82 is UNDEF, we continue.
+        -31 is FALSE, we continue
+            Only one UNDEF, 82, which we set to true.
+There's 8 clauses with 59 negated:
+    Checking the clause in the 0 position, number 5: 
+        -59 is FALSE, we continue
+        -74 is UNDEF, we continue.
+        52 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 73: 
+        -59 is FALSE, we continue
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 86: 
+        -59 is FALSE, we continue
+        54 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 101: 
+        -59 is FALSE, we continue
+        -19 is FALSE, we continue
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 118: 
+        35 is FALSE, we continue
+        -59 is FALSE, we continue
+        -63 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 236: 
+        -59 is FALSE, we continue
+        100 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 284: 
+        -59 is FALSE, we continue
+        27 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 353: 
+        -59 is FALSE, we continue
+        82 is TRUE, we are done here.
+            No conflict
+There's 8 clauses with 59 negated:
+    Checking the clause in the 0 position, number 5: 
+        -59 is FALSE, we continue
+        -74 is UNDEF, we continue.
+        52 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 73: 
+        -59 is FALSE, we continue
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 86: 
+        -59 is FALSE, we continue
+        54 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 101: 
+        -59 is FALSE, we continue
+        -19 is FALSE, we continue
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 118: 
+        35 is FALSE, we continue
+        -59 is FALSE, we continue
+        -63 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 236: 
+        -59 is FALSE, we continue
+        100 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 284: 
+        -59 is FALSE, we continue
+        27 is FALSE, we continue
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 353: 
+        -59 is FALSE, we continue
+        82 is TRUE, we are done here.
+            No conflict
+Propagating literal 62
+There's 7 clauses with 62 negated:
+    Checking the clause in the 0 position, number 6: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 43: 
+        -62 is FALSE, we continue
+        32 is FALSE, we continue
+        15 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 72: 
+        64 is UNDEF, we continue.
+        32 is FALSE, we continue
+        -62 is FALSE, we continue
+            Only one UNDEF, 64, which we set to true.
+    Checking the clause in the 3 position, number 202: 
+        -29 is FALSE, we continue
+        61 is FALSE, we continue
+        -62 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 7 clauses with 62 negated:
+    Checking the clause in the 0 position, number 6: 
+        -43 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 43: 
+        -62 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 72: 
+        64 is UNDEF, we continue.
+        32 is FALSE, we continue
+        -62 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 202: 
+        -29 is FALSE, we continue
+        61 is FALSE, we continue
+        -62 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 208: 
+        -5 is FALSE, we continue
+        -28 is FALSE, we continue
+        -62 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 288: 
+        74 is UNDEF, we continue.
+        -62 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 375: 
+        95 is FALSE, we continue
+        -62 is TRUE, we are done here.
+            No conflict
+Propagating literal 64
+There's 8 clauses with 64 negated:
+    Checking the clause in the 0 position, number 74: 
+        89 is UNDEF, we continue.
+        77 is UNDEF, we continue.
+        -64 is FALSE, we continue
+            No conflict
+    Checking the clause in the 1 position, number 79: 
+        -64 is FALSE, we continue
+        55 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 134: 
+        92 is UNDEF, we continue.
+        71 is FALSE, we continue
+        -64 is FALSE, we continue
+            Only one UNDEF, 92, which we set to true.
+    Checking the clause in the 3 position, number 199: 
+        -64 is FALSE, we continue
+        89 is UNDEF, we continue.
+        -13 is FALSE, we continue
+            Only one UNDEF, 89, which we set to true.
+    Checking the clause in the 4 position, number 239: 
+        82 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 294: 
+        -64 is FALSE, we continue
+        -87 is UNDEF, we continue.
+        -45 is FALSE, we continue
+            Only one UNDEF, -87, which we set to true.
+    Checking the clause in the 6 position, number 370: 
+        70 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        65 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 378: 
+        80 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        38 is TRUE, we are done here.
+            No conflict
+There's 8 clauses with 64 negated:
+    Checking the clause in the 0 position, number 74: 
+        89 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 79: 
+        -64 is FALSE, we continue
+        55 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 134: 
+        92 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 199: 
+        -64 is FALSE, we continue
+        89 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 239: 
+        82 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 294: 
+        -64 is FALSE, we continue
+        -87 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 370: 
+        70 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        65 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 378: 
+        80 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        38 is TRUE, we are done here.
+            No conflict
+There's 8 clauses with 64 negated:
+    Checking the clause in the 0 position, number 74: 
+        89 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 79: 
+        -64 is FALSE, we continue
+        55 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 134: 
+        92 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 199: 
+        -64 is FALSE, we continue
+        89 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 239: 
+        82 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 294: 
+        -64 is FALSE, we continue
+        -87 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 370: 
+        70 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        65 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 378: 
+        80 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        38 is TRUE, we are done here.
+            No conflict
+There's 8 clauses with 64 negated:
+    Checking the clause in the 0 position, number 74: 
+        89 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 79: 
+        -64 is FALSE, we continue
+        55 is FALSE, we continue
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 134: 
+        92 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 199: 
+        -64 is FALSE, we continue
+        89 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 239: 
+        82 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 294: 
+        -64 is FALSE, we continue
+        -87 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 370: 
+        70 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        65 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 7 position, number 378: 
+        80 is UNDEF, we continue.
+        -64 is FALSE, we continue
+        38 is TRUE, we are done here.
+            No conflict
+Propagating literal 65
+There's 7 clauses with 65 negated:
+    Checking the clause in the 0 position, number 11: 
+        -65 is FALSE, we continue
+        49 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 44: 
+        -65 is FALSE, we continue
+        -51 is FALSE, we continue
+        63 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 7 clauses with 65 negated:
+    Checking the clause in the 0 position, number 11: 
+        -65 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 44: 
+        -65 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 100: 
+        70 is UNDEF, we continue.
+        -65 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 187: 
+        -65 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 274: 
+        -61 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 317: 
+        49 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 356: 
+        -56 is FALSE, we continue
+        -65 is TRUE, we are done here.
+            No conflict
+Propagating literal 66
+There's 4 clauses with 66 negated:
+    Checking the clause in the 0 position, number 194: 
+        83 is UNDEF, we continue.
+        -57 is FALSE, we continue
+        -66 is FALSE, we continue
+            Only one UNDEF, 83, which we set to true.
+    Checking the clause in the 1 position, number 286: 
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 359: 
+        -66 is FALSE, we continue
+        -9 is FALSE, we continue
+        87 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 4 clauses with 66 negated:
+    Checking the clause in the 0 position, number 194: 
+        83 is UNDEF, we continue.
+        -57 is FALSE, we continue
+        -66 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 286: 
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 359: 
+        -66 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 415: 
+        -79 is TRUE, we are done here.
+            No conflict
+Propagating literal 68
+There's 8 clauses with 68 negated:
+    Checking the clause in the 0 position, number 14: 
+        -68 is FALSE, we continue
+        20 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 40: 
+        -68 is FALSE, we continue
+        -80 is UNDEF, we continue.
+        -90 is UNDEF, we continue.
+            No conflict
+    Checking the clause in the 2 position, number 272: 
+        -68 is FALSE, we continue
+        83 is UNDEF, we continue.
+        -100 is FALSE, we continue
+            Only one UNDEF, 83, which we set to true.
+    Checking the clause in the 3 position, number 277: 
+        90 is UNDEF, we continue.
+        -68 is FALSE, we continue
+        -93 is FALSE, we continue
+            Only one UNDEF, 90, which we set to true.
+    Checking the clause in the 4 position, number 314: 
+        46 is FALSE, we continue
+        -16 is FALSE, we continue
+        -68 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 8 clauses with 68 negated:
+    Checking the clause in the 0 position, number 14: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 40: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 272: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 277: 
+        90 is UNDEF, we continue.
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 314: 
+        46 is FALSE, we continue
+        -16 is FALSE, we continue
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 357: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 373: 
+        -76 is FALSE, we continue
+        12 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 379: 
+        -68 is TRUE, we are done here.
+            No conflict
+Propagating literal 70
+There's 2 clauses with 70 negated:
+    Checking the clause in the 0 position, number 193: 
+        -19 is FALSE, we continue
+        -100 is FALSE, we continue
+        -70 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 2 clauses with 70 negated:
+    Checking the clause in the 0 position, number 193: 
+        -19 is FALSE, we continue
+        -100 is FALSE, we continue
+        -70 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 367: 
+        -70 is TRUE, we are done here.
+            No conflict
+Propagating literal 73
+There's 5 clauses with 73 negated:
+    Checking the clause in the 0 position, number 162: 
+        61 is FALSE, we continue
+        -44 is FALSE, we continue
+        -73 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 5 clauses with 73 negated:
+    Checking the clause in the 0 position, number 162: 
+        61 is FALSE, we continue
+        -44 is FALSE, we continue
+        -73 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 189: 
+        -73 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 221: 
+        -1 is FALSE, we continue
+        63 is FALSE, we continue
+        -73 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 317: 
+        49 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 409: 
+        -15 is FALSE, we continue
+        -73 is TRUE, we are done here.
+            No conflict
+Propagating literal 74
+There's 3 clauses with 74 negated:
+    Checking the clause in the 0 position, number 5: 
+        -59 is FALSE, we continue
+        -74 is FALSE, we continue
+        52 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 142: 
+        77 is UNDEF, we continue.
+        -74 is FALSE, we continue
+        -34 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 228: 
+        88 is UNDEF, we continue.
+        31 is TRUE, we are done here.
+            No conflict
+Propagating literal 77
+There's 6 clauses with 77 negated:
+    Checking the clause in the 0 position, number 161: 
+        72 is FALSE, we continue
+        -77 is FALSE, we continue
+        16 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 183: 
+        18 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 198: 
+        93 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 360: 
+        -3 is FALSE, we continue
+        5 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 369: 
+        86 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 417: 
+        50 is FALSE, we continue
+        -77 is FALSE, we continue
+        53 is TRUE, we are done here.
+            No conflict
+Propagating literal 80
+There's 3 clauses with 80 negated:
+    Checking the clause in the 0 position, number 40: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 138: 
+        -31 is FALSE, we continue
+        61 is FALSE, we continue
+        -80 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 3 clauses with 80 negated:
+    Checking the clause in the 0 position, number 40: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 138: 
+        -31 is FALSE, we continue
+        61 is FALSE, we continue
+        -80 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 257: 
+        -80 is TRUE, we are done here.
+            No conflict
+Propagating literal 81
+There's 6 clauses with 81 negated:
+    Checking the clause in the 0 position, number 22: 
+        97 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 111: 
+        -81 is FALSE, we continue
+        -32 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 214: 
+        -81 is FALSE, we continue
+        -37 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 273: 
+        31 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 276: 
+        -95 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 419: 
+        24 is TRUE, we are done here.
+            No conflict
+Propagating literal 83
+There's 12 clauses with 83 negated:
+    Checking the clause in the 0 position, number 60: 
+        -83 is FALSE, we continue
+        -45 is FALSE, we continue
+        -72 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 65: 
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 90: 
+        -98 is FALSE, we continue
+        16 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 99: 
+        -38 is FALSE, we continue
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 112: 
+        -83 is FALSE, we continue
+        91 is FALSE, we continue
+        -94 is UNDEF, we continue.
+            Only one UNDEF, -94, which we set to true.
+    Checking the clause in the 5 position, number 121: 
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 139: 
+        -14 is FALSE, we continue
+        -92 is FALSE, we continue
+        -83 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 12 clauses with 83 negated:
+    Checking the clause in the 0 position, number 60: 
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 65: 
+        -27 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 90: 
+        -98 is FALSE, we continue
+        16 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 99: 
+        -38 is FALSE, we continue
+        23 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 112: 
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 121: 
+        98 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 139: 
+        -14 is FALSE, we continue
+        -92 is FALSE, we continue
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 233: 
+        -41 is FALSE, we continue
+        99 is UNDEF, we continue.
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 286: 
+        56 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 9 position, number 321: 
+        -56 is FALSE, we continue
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 10 position, number 328: 
+        24 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 11 position, number 385: 
+        48 is FALSE, we continue
+        -83 is TRUE, we are done here.
+            No conflict
+Propagating literal 88
+There's 5 clauses with 88 negated:
+    Checking the clause in the 0 position, number 37: 
+        -88 is FALSE, we continue
+        80 is FALSE, we continue
+        -39 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 5 clauses with 88 negated:
+    Checking the clause in the 0 position, number 37: 
+        -88 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 98: 
+        72 is FALSE, we continue
+        -88 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 128: 
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 133: 
+        -88 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 174: 
+        -75 is FALSE, we continue
+        59 is TRUE, we are done here.
+            No conflict
+Propagating literal 90
+There's 5 clauses with 90 negated:
+    Checking the clause in the 0 position, number 40: 
+        -68 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 78: 
+        15 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 132: 
+        35 is FALSE, we continue
+        -90 is FALSE, we continue
+        14 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 144: 
+        25 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 191: 
+        -90 is FALSE, we continue
+        -29 is FALSE, we continue
+        10 is TRUE, we are done here.
+            No conflict
+Propagating literal 94
+There's 9 clauses with 94 negated:
+    Checking the clause in the 0 position, number 58: 
+        77 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 109: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 112: 
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 152: 
+        70 is FALSE, we continue
+        -38 is FALSE, we continue
+        -94 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 9 clauses with 94 negated:
+    Checking the clause in the 0 position, number 58: 
+        77 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 109: 
+        28 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 2 position, number 112: 
+        -83 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 3 position, number 152: 
+        70 is FALSE, we continue
+        -38 is FALSE, we continue
+        -94 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 4 position, number 273: 
+        31 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 5 position, number 289: 
+        51 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 6 position, number 312: 
+        -92 is FALSE, we continue
+        2 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 7 position, number 324: 
+        62 is FALSE, we continue
+        22 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 8 position, number 347: 
+        -94 is TRUE, we are done here.
+            No conflict
+Propagating literal 99
+There's 2 clauses with 99 negated:
+    Checking the clause in the 0 position, number 63: 
+        95 is FALSE, we continue
+        -99 is FALSE, we continue
+        79 is FALSE, we continue
+            CONFLICT! All lits false!
+There's 2 clauses with 99 negated:
+    Checking the clause in the 0 position, number 63: 
+        95 is FALSE, we continue
+        -99 is TRUE, we are done here.
+            No conflict
+    Checking the clause in the 1 position, number 154: 
+        -99 is TRUE, we are done here.
+            No conflict
+Propagating literal 0
+Error in model, clause 41 is not satisfied:84 96 -1 
